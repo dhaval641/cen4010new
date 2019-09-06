@@ -1,5 +1,5 @@
 import React from 'react';
-import './matt.css';
+import '.about/matt.css';
 import Card from 'react-bootstrap/Card'
 import photo from './assets/images/Matthew201909.jpg'
 
@@ -27,4 +27,4 @@ function Matt() {
     );
 }
 
-export default Matt;
+export default App;
